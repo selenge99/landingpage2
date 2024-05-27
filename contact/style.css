@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+section{
+    width:100%;
+}
+.head{
+    width:1550px;
+    height:34px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-left: 25px;
+
+    
+}
+.logo{
+    font-size: 24px;
+    width:215px;
+    height:28px;
+
+    
+    
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40.5px;
+}
+.icon{
+    width:30px;
+    height:30px;
+
+
+}
+.hero{
+    width:1600px;
+    height:1366px;
+    background-color: #F4F7FA;
+}
+
+
+.content{
+    width:601px;
+    height:202px;
+    margin-top: 20px;
+    margin-left: 499px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+.content h1{
+    fond-size:60px;
+}
+.layout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+}
+
+
+
+
+.content p{
+    font-size: 19px;
+    width:600px;
+    height:93px;  
+    margin-top: 24px;
+}
+
+
+
+.form{
+    width:1110px;
+    height:595px;
+    
+}
+.input{
+    display: flex;
+
+}
+.input-next{
+    display: flex;
+}
+
+.end{
+    width:1601px;
+    margin-bottom:108px
+}
+
+.horizontal_line{
+    width:100%;
+    height:58px;
+}
+
+.nice{
+    display: flex;
+    gap:500px;
+    
+}
+
+
+.nice1{
+    display: flex;
+    gap:10px;
+    justify-content: flex-end;
+    
+}
