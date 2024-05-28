@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  width: 1550px;
+  width: 100%;
   height: 34px;
   display: flex;
   gap: 592px;
@@ -35,6 +35,7 @@ header {
   font-style: arial;
 }
 .container1 {
+  width:100%;
   display: flex;
   align-items: center;
   justify-content: center;
